@@ -272,7 +272,7 @@ http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8?
 http://59.125.101.187:8744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8?
 #EXTINF:-1,tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影台.png" group-title="影视",好莱坞电影
 http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8?
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/STARWORLD.png" group-title="影视",StarWorld
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/卫视合家欢台.png" group-title="影视",StarWorld
 http://59.125.101.187:8761/http/192.168.77.24:8081/hls/61/803/ch02.m3u8?
 #EXTINF:-1,tvg-id="CNBCHONGKONG" tvg-name="CNBCHONGKONG" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="影视",CNBC
 http://59.125.101.187:8708/http/192.168.77.24:8078/hls/24/80/cnbc90.m3u8?

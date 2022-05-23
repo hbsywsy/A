@@ -282,7 +282,7 @@ http://59.125.101.187:8706/http/192.168.77.24:8081/hls/62/804/ch06.m3u8?
 http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?
 #EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="卫视",卫视电影
 http://59.125.101.187:8753/http/192.168.77.24:8081/hls/62/804/ch07.m3u8?
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/卫视电影GOLD.png" group-title="卫视",卫视电影GOLD
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/卫视国际电影台.png" group-title="卫视",卫视电影GOLD
 http://59.125.101.187:8745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8?
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港台",明珠台
 http://kkmix1.f3322.net:825/hls/ch1/s.m3u8

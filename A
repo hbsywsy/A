@@ -150,7 +150,7 @@ http://live.tvfix.org/hls/shwypdhd.m3u8
 http://live.tvfix.org/hls/shxwzhhd.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="影视",五星体育高清
 http://live.tvfix.org/hls/wxtyhd.m3u8
-#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.112114.xyz/logo/MAX极速汽车.png" group-title="影视",极速汽车高清
+#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://upload.112114.xyz/logo/极速汽车.png" group-title="影视",极速汽车高清
 http://live.tvfix.org/hls/jsqchd.m3u8
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="影视",上海纪实高清
 http://live.tvfix.org/hls/docuchina.m3u8

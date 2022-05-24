@@ -325,5 +325,4 @@ http://59.125.101.187:8706/http/192.168.77.24:8081/hls/73/815/ch52.m3u8?
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://upload.112114.xyz/logo/Global_News_CH_logo.png" group-title="港台",寰宇新闻
 http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://upload.112114.xyz/logo/Tvbsnews.png" group-title="港台",TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8

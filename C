@@ -11,7 +11,7 @@ http://beifeng.site:4000/udp/239.3.1.105:8092
 http://beifeng.site:4000/udp/239.3.1.213:4220
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际 美洲[高清]
 http://beifeng.site:4000/udp/239.3.1.214:4220
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5体育[高清]
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育[高清]
 http://beifeng.site:4000/udp/239.3.1.173:8001
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+[高清]
 http://beifeng.site:4000/udp/239.3.1.130:8004

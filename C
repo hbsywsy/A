@@ -300,8 +300,7 @@ http://59.125.101.187:8710/http/192.168.77.24:8081/hls/69/811/ch35.m3u8?
 http://59.125.101.187:8762/http/192.168.77.24:8081/hls/68/810/ch30.m3u8?
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="港台",纬来体育
 http://59.125.101.187:8763/http/192.168.77.24:8081/hls/67/809/ch28.m3u8?
-#EXTINF:-1,tvg-id="JET综合台" tvg-name="JET综合台" tvg-logo="https://upload.112114.xyz/logo/JET综合.png
-" group-title="港台",JET综合台
+#EXTINF:-1,tvg-id="JET综合台" tvg-name="JET综合台" tvg-logo="https://upload.112114.xyz/logo/JET综合.png" group-title="港台",JET综合台
 http://59.125.101.187:8719/http/192.168.77.24:8081/hls/74/816/ch54.m3u8?
 #EXTINF:-1,tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="港台",BabyTV
 http://59.125.101.187:8770/http/192.168.77.24:8078/hls/35/80/babytv.m3u8?
@@ -319,8 +318,7 @@ http://59.125.101.187:8713/http/192.168.77.24:8088/hls/72/814/ch48.m3u8?
 http://59.125.101.187:8714/http/192.168.77.24:8081/hls/73/815/ch49.m3u8?
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港台",民视新闻
 http://59.125.101.187:8704/http/192.168.77.24:8081/hls/73/815/ch51.m3u8?
-#EXTINF:-1,tvg-id="公视2" tvg-name="公视2" tvg-logo="https://upload.112114.xyz/logo/PublicTV.png
-" group-title="港台",公视
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://upload.112114.xyz/logo/PublicTV.png" group-title="港台",公视
 http://59.125.101.187:8705/http/192.168.77.24:8081/hls/73/815/ch50.m3u8?
 #EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.112114.xyz/logo/大爱一台.png" group-title="港台",大爱一台
 http://59.125.101.187:8706/http/192.168.77.24:8081/hls/73/815/ch52.m3u8?

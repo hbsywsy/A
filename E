@@ -149,9 +149,9 @@ http://[2409:8087:5c00:10:5::93]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225679
 http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 8M1080
 http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225686/index.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文 8M1080
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="教育",上海纪实人文 8M1080
 http://[2409:8087:5c00:10:5::125]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225688/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实 8M1080
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="教育",北京冬奥纪实 8M1080
 http://[2409:8087:5c00:10:5::98]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="New",NewTV中国功夫 4M1080
 http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225690/index.m3u8

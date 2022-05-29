@@ -277,7 +277,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225889/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NEWTV",NewTV金牌综艺 4M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1
-#EXTM3U
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="卫视",中天新闻
 http://220.134.196.147:9541/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="卫视",东森新闻
@@ -286,98 +285,50 @@ http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
 http://220.134.196.147:9517/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="卫视",TVBS
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1,tvg-id="SNH48剧场公演" tvg-name="SNH48剧场公演" tvg-
-
-logo="https://epg.112114.xyz/logo/SNH48剧场公演.png" group-title="MIGU剧场",MIGUSNH48剧场公演
+#EXTINF:-1,tvg-id="SNH48剧场公演" tvg-name="SNH48剧场公演" tvg-logo="https://epg.112114.xyz/logo/SNH48剧场公演.png" group-title="MIGU剧场",MIGUSNH48剧场公演
 http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
-#EXTINF:-1,tvg-id="TVB剧场" tvg-name="TVB剧场" tvg-logo="https://epg.112114.xyz/logo/TVB剧场.png" 
-
-group-title="港澳台",MIGUTVB剧场
+#EXTINF:-1,tvg-id="TVB剧场" tvg-name="TVB剧场" tvg-logo="https://epg.112114.xyz/logo/TVB剧场.png" group-title="港澳台",MIGUTVB剧场
 http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-#EXTINF:-1,tvg-id="云上电影院" tvg-name="云上电影院" tvg-logo="https://epg.112114.xyz/logo/云上电影
-
-院.png" group-title="MIGU剧场",MIGU云上电影院
+#EXTINF:-1,tvg-id="云上电影院" tvg-name="云上电影院" tvg-logo="https://epg.112114.xyz/logo/云上电影院.png" group-title="MIGU剧场",MIGU云上电影院
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1,tvg-id="僵尸剧场" tvg-name="僵尸剧场" tvg-logo="https://epg.112114.xyz/logo/僵尸剧场.png" 
-
-group-title="MIGU剧场",MIGU僵尸剧场
+#EXTINF:-1,tvg-id="僵尸剧场" tvg-name="僵尸剧场" tvg-logo="https://epg.112114.xyz/logo/僵尸剧场.png" group-title="MIGU剧场",MIGU僵尸剧场
 http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1,tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://epg.112114.xyz/logo/军旅剧场.png" 
-
-group-title="MIGU剧场",MIGU军旅剧场
+#EXTINF:-1,tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://epg.112114.xyz/logo/军旅剧场.png" group-title="MIGU剧场",MIGU军旅剧场
 http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-#EXTINF:-1,tvg-id="刘亦菲影视" tvg-name="刘亦菲影视" tvg-logo="https://epg.112114.xyz/logo/刘亦菲影
-
-视.png" group-title="MIGU剧场",MIGU刘亦菲影视展播
+#EXTINF:-1,tvg-id="刘亦菲影视" tvg-name="刘亦菲影视" tvg-logo="https://epg.112114.xyz/logo/刘亦菲影视.png" group-title="MIGU剧场",MIGU刘亦菲影视展播
 http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
-#EXTINF:-1,tvg-id="刘德华影院" tvg-name="刘德华影院" tvg-logo="https://epg.112114.xyz/logo/刘德华影
-
-院.png" group-title="MIGU剧场",MIGU刘德华影院
+#EXTINF:-1,tvg-id="刘德华影院" tvg-name="刘德华影院" tvg-logo="https://epg.112114.xyz/logo/刘德华影院.png" group-title="MIGU剧场",MIGU刘德华影院
 http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
-#EXTINF:-1,tvg-id="古天乐影院" tvg-name="古天乐影院" tvg-logo="https://epg.112114.xyz/logo/古天乐影
-
-院.png" group-title="MIGU剧场",MIGU古天乐影院
+#EXTINF:-1,tvg-id="古天乐影院" tvg-name="古天乐影院" tvg-logo="https://epg.112114.xyz/logo/古天乐影院.png" group-title="MIGU剧场",MIGU古天乐影院
 http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1,tvg-id="周润发影院" tvg-name="周润发影院" tvg-logo="https://epg.112114.xyz/logo/周润发影
-
-院.png" group-title="MIGU剧场",MIGU周润发影院
+#EXTINF:-1,tvg-id="周润发影院" tvg-name="周润发影院" tvg-logo="https://epg.112114.xyz/logo/周润发影院.png" group-title="MIGU剧场",MIGU周润发影院
 http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1,tvg-id="喜剧联盟" tvg-name="喜剧联盟" tvg-logo="https://epg.112114.xyz/logo/喜剧联盟.png" 
-
-group-title="MIGU剧场",MIGU喜剧联盟
+#EXTINF:-1,tvg-id="喜剧联盟" tvg-name="喜剧联盟" tvg-logo="https://epg.112114.xyz/logo/喜剧联盟.png" group-title="MIGU剧场",MIGU喜剧联盟
 http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
-#EXTINF:-1,tvg-id="张国荣影院" tvg-name="张国荣影院" tvg-logo="https://epg.112114.xyz/logo/张国荣影
-
-院.png" group-title="MIGU剧场",MIGU张国荣影院
+#EXTINF:-1,tvg-id="张国荣影院" tvg-name="张国荣影院" tvg-logo="https://epg.112114.xyz/logo/张国荣影院.png" group-title="MIGU剧场",MIGU张国荣影院
 http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
-#EXTINF:-1,tvg-id="怀旧老片" tvg-name="怀旧老片" tvg-logo="https://epg.112114.xyz/logo/怀旧老片.png" 
-
-group-title="MIGU剧场",MIGU怀旧老片
+#EXTINF:-1,tvg-id="怀旧老片" tvg-name="怀旧老片" tvg-logo="https://epg.112114.xyz/logo/怀旧老片.png"group-title="MIGU剧场",MIGU怀旧老片
 http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-#EXTINF:-1,tvg-id="成龙作品集" tvg-name="成龙作品集" tvg-logo="https://epg.112114.xyz/logo/成龙作品
-
-集.png" group-title="MIGU剧场",MIGU成龙作品集
+#EXTINF:-1,tvg-id="成龙作品集" tvg-name="成龙作品集" tvg-logo="https://epg.112114.xyz/logo/成龙作品集.png" group-title="MIGU剧场",MIGU成龙作品集
 http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/MIGU杨幂作品集.png" group-
-
-title="MIGU剧场",MIGU杨幂作品集
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/MIGU杨幂作品集.png" group-title="MIGU剧场",MIGU杨幂作品集
 http://117.148.179.134/PLTV/88888888/224/3221231556/index.m3u8
-#EXTINF:-1,tvg-id="盗墓方法论" tvg-name="盗墓方法论" tvg-logo="https://epg.112114.xyz/logo/盗墓方法
-
-论.png" group-title="MIGU剧场",MIGU盗墓方法论
+#EXTINF:-1,tvg-id="盗墓方法论" tvg-name="盗墓方法论" tvg-logo="https://epg.112114.xyz/logo/盗墓方法论.png" group-title="MIGU剧场",MIGU盗墓方法论
 http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
-#EXTINF:-1,tvg-id="盗墓方法论" tvg-name="盗墓方法论" tvg-logo="https://epg.112114.xyz/logo/盗墓方法
-
-论.png" group-title="MIGU剧场",MIGU盗墓方法论
+#EXTINF:-1,tvg-id="盗墓方法论" tvg-name="盗墓方法论" tvg-logo="https://epg.112114.xyz/logo/盗墓方法论.png" group-title="MIGU剧场",MIGU盗墓方法论
 http://117.148.179.134/PLTV/88888888/224/3221231652/index.m3u8
-#EXTINF:-1,tvg-id="神探狄仁杰" tvg-name="神探狄仁杰" tvg-logo="https://epg.112114.xyz/logo/神探狄仁
-
-杰.png" group-title="MIGU剧场",MIGU神探狄仁杰
+#EXTINF:-1,tvg-id="神探狄仁杰" tvg-name="神探狄仁杰" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰.png" group-title="MIGU剧场",MIGU神探狄仁杰
 http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
-#EXTINF:-1,tvg-id="经典贺岁片" tvg-name="经典贺岁片" tvg-logo="https://epg.112114.xyz/logo/经典贺岁
-
-片.png" group-title="MIGU剧场",MIGU经典贺岁片
+#EXTINF:-1,tvg-id="经典贺岁片" tvg-name="经典贺岁片" tvg-logo="https://epg.112114.xyz/logo/经典贺岁片.png" group-title="MIGU剧场",MIGU经典贺岁片
 http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/MIGU葛优作品集.png" group-
-
-title="MIGU剧场",MIGU葛优作品集
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/MIGU葛优作品集.png" group-title="MIGU剧场",MIGU葛优作品集
 http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
-#EXTINF:-1,tvg-id="试胆大会" tvg-name="试胆大会" tvg-logo="https://epg.112114.xyz/logo/试胆大会.png" 
-
-group-title="MIGU剧场",MIGU试胆大会
+#EXTINF:-1,tvg-id="试胆大会" tvg-name="试胆大会" tvg-logo="https://epg.112114.xyz/logo/试胆大会.png" group-title="MIGU剧场",MIGU试胆大会
 http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1,tvg-id="试胆大会" tvg-name="试胆大会" tvg-logo="https://epg.112114.xyz/logo/试胆大会.png" 
-
-group-title="MIGU剧场",MIGU试胆大会
+#EXTINF:-1,tvg-id="试胆大会" tvg-name="试胆大会" tvg-logo="https://epg.112114.xyz/logo/试胆大会.png" group-title="MIGU剧场",MIGU试胆大会
 http://117.148.179.134/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1,tvg-id="古天乐影院" tvg-name="古天乐影院" tvg-logo="https://epg.112114.xyz/logo/古天乐影
-
-院.png" group-title="MIGU剧场",MIGU古天乐影院
+#EXTINF:-1,tvg-id="古天乐影院" tvg-name="古天乐影院" tvg-logo="https://epg.112114.xyz/logo/古天乐影院.png" group-title="MIGU剧场",MIGU古天乐影院
 http://117.148.179.176/PLTV/88888888/224/3221231645/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/MIGUGLOBAL.png" group-
-
-title="MIGU剧场",MIGU global
-http://gslb.cdn.hk.chinamobile.com:80/live/d172754e7b0f4ec5969b5dec6fe5e37b/74ef089a0ca147ec8e1a7d9f
-
-8151d88b-1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/MIGUGLOBAL.png" group-title="MIGU剧场",MIGU global
+http://gslb.cdn.hk.chinamobile.com:80/live/d172754e7b0f4ec5969b5dec6fe5e37b/74ef089a0ca147ec8e1a7d9f8151d88b-1.m3u8
 

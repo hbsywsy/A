@@ -203,7 +203,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227197/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16 25M2160
 http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/未知4K.png" group-title="文娱",未知4K 16M2160
+#EXTINF:-1,tvg-id="纯4K" tvg-name="纯4K" tvg-logo="https://epg.112114.xyz/logo/纯4K.png" group-title="文娱",纯4K 16M2160
 http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="文娱",纯享4K 16M2160
 http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
@@ -287,7 +287,7 @@ http://220.134.196.147:9517/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,tvg-id="SNH48剧场公演" tvg-name="SNH48剧场公演" tvg-logo="https://epg.112114.xyz/logo/SNH48剧场公演.png" group-title="MIGU剧场",MIGUSNH48剧场公演
 http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
-#EXTINF:-1,tvg-id="TVB剧场" tvg-name="TVB剧场" tvg-logo="https://epg.112114.xyz/logo/TVB剧场.png" group-title="港澳台",MIGUTVB剧场
+#EXTINF:-1,tvg-id="TVB剧场" tvg-name="TVB剧场" tvg-logo="https://epg.112114.xyz/logo/TVB剧场.png" group-title="MIGU剧场",MIGUTVB剧场
 http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 #EXTINF:-1,tvg-id="云上电影院" tvg-name="云上电影院" tvg-logo="https://epg.112114.xyz/logo/云上电影院.png" group-title="MIGU剧场",MIGU云上电影院
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8

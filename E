@@ -204,7 +204,7 @@ http://220.249.114.102:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湖北经视.png" group-title="湖北",湖北经视
 http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="湖北",中国交通湖北
-http://tv.lanjingfm.com/cctbn/hubei.m3u
+http://tv.lanjingfm.com/cctbn/hubei.m3u8#http://tv.lanjingfm.com/cctbn/hubei.m3u
 #EXTINF:-1,tvg-id="武汉新闻综合" tvg-name="武汉新闻综合" tvg-logo="https://epg.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
 http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8
 #EXTINF:-1,tvg-id="武汉新闻综合" tvg-name="武汉新闻综合" tvg-logo="https://epg.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
@@ -482,7 +482,7 @@ http://live.tvfix.org/hls/rthk32.m3u8
 #EXTINF:-1,tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="https://epg.112114.xyz/logo/东森幼幼台.png" group-title="港台",东森幼幼
 http://59.125.101.187:8725/http/192.168.77.24:8081/hls/63/805/ch09.m3u8?
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港台",东森新闻
-http://59.125.101.187:8702/http/192.168.77.24:8081/hls/63/805/ch10.m3u8?
+https://ssttvv1.6zxr.xyz/dsxw/index.m3u8#http://59.125.101.187:8702/http/192.168.77.24:8081/hls/63/805/ch10.m3u8?
 #EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png" group-title="港台",东森财经
 http://59.125.101.187:8770/http/192.168.77.24:8081/hls/63/805/ch11.m3u8?
 #EXTINF:-1,tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://epg.112114.xyz/logo/东森综合台.png" group-title="港台",东森综合
@@ -506,7 +506,7 @@ http://59.125.101.187:8771/http/192.168.77.24:8081/hls/66/808/ch23.m3u8?
 #EXTINF:-1,tvg-id="壹电视新闻台" tvg-name="壹电视新闻台" tvg-logo="https://epg.112114.xyz/logo/壹电视新闻台.png" group-title="港台",壹电视新闻台
 http://59.125.101.187:8710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8?
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="港台",中天新闻
-http://59.125.101.187:8703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?
+https://ssttvv1.6zxr.xyz/ztxw/index.m3u8#http://59.125.101.187:8703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?
 #EXTINF:-1,tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="港台",中天综合
 http://59.125.101.187:8733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8?
 #EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="港台",中天娱乐
@@ -550,7 +550,7 @@ http://59.125.101.187:8705/http/192.168.77.24:8081/hls/73/815/ch50.m3u8?
 #EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.112114.xyz/logo/大爱一台.png" group-title="港台",大爱一台
 http://59.125.101.187:8706/http/192.168.77.24:8081/hls/73/815/ch52.m3u8?
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://upload.112114.xyz/logo/Global_News_CH_logo.png" group-title="港台",寰宇新闻
-http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
+https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8#http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://upload.112114.xyz/logo/Tvbsnews.png" group-title="港台",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IHOT爱浪漫.png" group-title="IHOT",iHOT爱浪漫

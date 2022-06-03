@@ -453,8 +453,6 @@ http://59.125.101.187:8744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8?
 http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8?
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/卫视合家欢台.png" group-title="文娱",StarWorld
 http://59.125.101.187:8761/http/192.168.77.24:8081/hls/61/803/ch02.m3u8?
-#EXTINF:-1,tvg-id="CNBCHONGKONG" tvg-name="CNBCHONGKONG" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="文娱",CNBC
-http://59.125.101.187:8708/http/192.168.77.24:8078/hls/24/80/cnbc90.m3u8?
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="港台",NHK新闻
 http://59.125.101.187:8706/http/192.168.77.24:8081/hls/62/804/ch06.m3u8?
 #EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="港台",卫视中文

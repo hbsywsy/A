@@ -1,4 +1,4 @@
-#EXTM3U url-logos="https://epg.112114.xyz/pp.xml#http://epg.51zmt.top:8000/e.xml"
+#EXTM3U url-logos="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="" tvg-name="纯4K" tvg-logo="" group-title="文化",咪咕4K 31M2160HDR
 http://[2409:8087:5c00:10:5::99]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225712/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K" tvg-logo="" group-title="文化",纯享4K 16M2160

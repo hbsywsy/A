@@ -1,10 +1,5 @@
 #EXTM3U url-logos="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="" tvg-name="纯4K" tvg-logo="" group-title="文化",咪咕4K 31M2160HDR
-http://[2409:8087:5c00:10:5::99]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225712/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4K" tvg-logo="" group-title="文化",纯享4K 16M2160
-http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png" group-title="文化",CCTV1 4M1080HEVC
-http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
+
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 4M1080
 http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225924/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 4M1080
@@ -315,7 +310,12 @@ https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8
 http://yangxin-live21.cjyun.org/10104/s10104-yangxin-tv01.m3u8?auth_key=1672502399-0-0-ada31d0b09e80db8707a4b3737fa74da
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宣恩综合.png" group-title="湖北",宣恩综合
 http://xuanen-live21.cjyun.org/10097/s10097-xezh2.m3u8?auth_key=1672502399-0-0-a22c0fd20103bbb2256c2c2bf75dd6f3
-
+#EXTINF:-1 tvg-id="" tvg-name="纯4K" tvg-logo="" group-title="文化",咪咕4K 31M2160HDR
+http://[2409:8087:5c00:10:5::99]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225712/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K" tvg-logo="" group-title="文化",纯享4K 16M2160
+http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png" group-title="文化",CCTV1 4M1080HEVC
+http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="文化",上海纪实人文 8M1080
 http://[2409:8087:5c00:10:5::125]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225688/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="文化",北京冬奥纪实 8M1080

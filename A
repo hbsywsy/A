@@ -75,7 +75,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
 http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8#@rtmp://r2bj.weizan.cn/v/351104_837056569960221505jiema4#@http://61.184.93.197:5011/vod/hls/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="十堰公共" tvg-logo="https://upload.112114.xyz/logo/十堰综合.png" group-title="十堰",十堰公共
 http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8#@rtmp://r2bj.weizan.cn/v/351104_694292401376336037jiema4#@http://61.184.93.197:5011/vod/hls/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="十堰经济" tvg-logo="https://upload.112114.xyz/logo/十堰经济.png" group-title="十堰",十堰经济,
+#EXTINF:-1 tvg-id="" tvg-name="十堰经济" tvg-logo="https://upload.112114.xyz/logo/十堰经济.png" group-title="十堰",十堰经济
 http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8#@rtmp://r2bj.weizan.cn/v/351104_791122427715011838jiema4#@http://61.184.93.197:5011/vod/hls/5.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
 http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
@@ -275,7 +275,7 @@ http://59.125.101.187:8771/http/192.168.77.24:8081/hls/66/808/ch23.m3u8?
 #EXTINF:-1,tvg-id="壹电视新闻台" tvg-name="壹电视新闻台" tvg-logo="https://epg.112114.xyz/logo/壹电视新闻台.png" group-title="港台",壹电视新闻台
 http://59.125.101.187:8710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8?
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="港台",中天新闻
-http://59.125.101.187:8703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?
+http://211.23.114.106:11555/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8#http://59.125.101.187:8703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?
 #EXTINF:-1,tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="港台",中天综合
 http://59.125.101.187:8733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8?
 #EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="港台",中天娱乐
@@ -319,6 +319,5 @@ http://59.125.101.187:8704/http/192.168.77.24:8081/hls/73/815/ch51.m3u8?
 http://59.125.101.187:8705/http/192.168.77.24:8081/hls/73/815/ch50.m3u8?
 #EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.112114.xyz/logo/大爱一台.png" group-title="港台",大爱一台
 http://59.125.101.187:8706/http/192.168.77.24:8081/hls/73/815/ch52.m3u8?
-
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://upload.112114.xyz/logo/Global_News_CH_logo.png" group-title="港台",寰宇新闻
-http://59.125.101.187:8709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
+http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?#http://59.125.101.187:8709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?

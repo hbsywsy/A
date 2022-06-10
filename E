@@ -88,7 +88,9 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://39.135.55.105:6610/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="央视新闻·正直播" tvg-logo="https://epg.112114.xyz/logo/央视新闻·正直播.png" group-title="央视",央视新闻·正直播
-https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8#https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
+https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
+https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
+https://newsalic.v.myalicdn.com:443/news/news04_1/index.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视

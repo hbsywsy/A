@@ -71,11 +71,11 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视 8M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="十堰新闻" tvg-logo="https://upload.112114.xyz/logo/十堰新闻.png" group-title="十堰",十堰新闻
-http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8#@rtmp://r2bj.weizan.cn/v/351104_837056569960221505jiema4#@http://61.184.93.197:5011/vod/hls/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="十堰公共" tvg-logo="https://upload.112114.xyz/logo/十堰综合.png" group-title="十堰",十堰公共
-http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8#@rtmp://r2bj.weizan.cn/v/351104_694292401376336037jiema4#@http://61.184.93.197:5011/vod/hls/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="十堰经济" tvg-logo="https://upload.112114.xyz/logo/十堰经济.png" group-title="十堰",十堰经济
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/sytv1.png" group-title="十堰",十堰新闻
+http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/sytv2.png" group-title="十堰",十堰公共
+http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/sytv3.png" group-title="十堰",十堰经济
 http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8#@rtmp://r2bj.weizan.cn/v/351104_791122427715011838jiema4#@http://61.184.93.197:5011/vod/hls/5.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
 http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8

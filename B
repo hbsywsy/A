@@ -112,13 +112,13 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
 #EXTINF:-1,tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://epg.112114.xyz/logo/南方卫视.png" group-title="卫视",南方卫视
 http://117.148.179.163/PLTV/88888888/224/3221231661/index.m3u8
-#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合
+#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="湖北",湖北综合
 http://220.249.114.102:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湖北经视.png" group-title="湖北",湖北经视
 http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="湖北",中国交通湖北
 http://tv.lanjingfm.com/cctbn/hubei.m3u
-#EXTINF:-1,tvg-id="武汉新闻综合" tvg-name="武汉新闻综合" tvg-logo="https://epg.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
+#EXTINF:-1,tvg-id="武汉新闻综合" tvg-name="武汉新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png" group-title="湖北",武汉新闻综合
 http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8
 #EXTINF:-1,tvg-id="武汉新闻综合" tvg-name="武汉新闻综合" tvg-logo="https://epg.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
 http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8

@@ -122,6 +122,12 @@ http://tv.lanjingfm.com/cctbn/hubei.m3u
 http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8
 #EXTINF:-1,tvg-id="武汉科技生活" tvg-name="武汉科技生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV3.png" group-title="湖北",武汉科技生活
 http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/sytv1.png" group-title="湖北",十堰新闻
+http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/sytv2.png" group-title="湖北",十堰公共
+http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/sytv3.png" group-title="湖北",十堰经济
+http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8#@rtmp://r2bj.weizan.cn/v/351104_791122427715011838jiema4#@http://61.184.93.197:5011/vod/hls/5.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荆州新闻.png" group-title="湖北",荆州新闻
 http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1672502399-0-0-ab2f43952f7fcf1b2da0c3372ec7e0e5
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荆楚垄上.png" group-title="湖北",荆楚垄上
@@ -142,10 +148,6 @@ http://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1672502399-0-0-c3
 http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichangzh
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宜昌旅游生活.png" group-title="湖北",宜昌旅游生活
 http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichanglysh
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/十堰新闻.png" group-title="湖北",十堰新闻
-http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/十堰公共.png" group-title="湖北",十堰公共
-http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荆门新闻综合.png" group-title="湖北",荆门新闻综合
 http://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1672502399-0-0-c9dc706da3efc39e5924b6871d7777ca
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荆门新闻综合.png" group-title="湖北",荆门新闻综合

@@ -143,22 +143,22 @@ http://[2409:8087:5c00:10:5::93]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225679
 http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 8M1080
 http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225686/index.m3u8
-#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合
+#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="湖北",湖北综合
 http://220.249.114.102:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湖北经视.png" group-title="湖北",湖北经视
 http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="湖北",中国交通湖北
-http://tv.lanjingfm.com/cctbn/hubei.m3u8#http://tv.lanjingfm.com/cctbn/hubei.m3u
-#EXTINF:-1,tvg-id="武汉新闻综合" tvg-name="武汉新闻综合" tvg-logo="https://epg.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
+http://tv.lanjingfm.com/cctbn/hubei.m3u
+#EXTINF:-1,tvg-id="武汉新闻综合" tvg-name="武汉新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png" group-title="湖北",武汉新闻综合
 http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8
-#EXTINF:-1,tvg-id="武汉新闻综合" tvg-name="武汉新闻综合" tvg-logo="https://epg.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
+#EXTINF:-1,tvg-id="武汉科技生活" tvg-name="武汉科技生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV3.png" group-title="湖北",武汉科技生活
 http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/十堰新闻.png" group-title="湖北",十堰新闻
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/sytv1.png" group-title="湖北",十堰新闻
 http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/十堰公共.png" group-title="湖北",十堰公共
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/sytv2.png" group-title="湖北",十堰公共
 http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/十堰经济.png" group-title="湖北",十堰经济
-http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/sytv3.png" group-title="湖北",十堰经济
+http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8#@rtmp://r2bj.weizan.cn/v/351104_791122427715011838jiema4#@http://61.184.93.197:5011/vod/hls/5.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荆州新闻.png" group-title="湖北",荆州新闻
 http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1672502399-0-0-ab2f43952f7fcf1b2da0c3372ec7e0e5
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荆楚垄上.png" group-title="湖北",荆楚垄上

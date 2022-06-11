@@ -1,4 +1,4 @@
-#EXTM3U url-logos="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1&IASHttpSessionId=OTT2738620220502042912053993
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -275,8 +275,8 @@ http://59.125.101.187:10771/http/192.168.77.24:8081/hls/66/808/ch23.m3u8?
 #EXTINF:-1,tvg-id="壹电视新闻台" tvg-name="壹电视新闻台" tvg-logo="https://epg.112114.xyz/logo/壹电视新闻台.png" group-title="港台",壹电视新闻台
 http://59.125.101.187:10710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8?
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="港台",中天新闻
-http://211.23.114.106:11555/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 http://59.125.101.187:10703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?
+http://211.23.114.106:11555/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1,tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="港台",中天综合
 http://59.125.101.187:10733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8?
 #EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="港台",中天娱乐
@@ -320,6 +320,6 @@ http://59.125.101.187:10705/http/192.168.77.24:8081/hls/73/815/ch50.m3u8?
 #EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.112114.xyz/logo/大爱一台.png" group-title="港台",大爱一台
 http://59.125.101.187:10706/http/192.168.77.24:8081/hls/73/815/ch52.m3u8?
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://upload.112114.xyz/logo/Global_News_CH_logo.png" group-title="港台",寰宇新闻
-https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
 http://59.125.101.187:10709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
 http://59.125.101.187:10709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
+https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8

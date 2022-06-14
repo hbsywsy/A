@@ -66,7 +66,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视 8M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="卫视",卫视中文
-http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?
+http://59.125.101.187:10720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?
 #EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="卫视",卫视电影
 http://59.125.101.187:10753/http/192.168.77.24:8081/hls/62/804/ch07.m3u8?
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/卫视国际电影台.png" group-title="卫视",卫视电影GOLD
@@ -91,7 +91,7 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
 #EXTINF:-1,tvg-id="气象" tvg-name="气象" tvg-logo="https://epg.112114.xyz/logo/气象.png" group-title="文娱",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1,tvg-id="东方文娱" tvg-name="东方文娱" tvg-logo="https://epg.112114.xyz/logo/东方文娱.png" group-title="文娱",上海东方影视
+#EXTINF:-1,tvg-id="东方文娱" tvg-name="东方文娱" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="文娱",上海东方影视
 http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="文娱",上海都市频道
 http://111.40.196.9/PLTV/88888888/224/3221225613/index.m3u8
@@ -118,7 +118,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225872/index.m3u8?servicetype=1
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1,tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="文娱",国家地理
 http://59.125.101.187:10709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8?
-#EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="卫视",Channel[V]
+#EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="文娱",Channel[V]
 http://live.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/STARSPORTS.png" group-title="文娱",Star Sports
 http://live.tvfix.org/hls/starsports.m3u8

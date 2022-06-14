@@ -239,7 +239,7 @@ http://59.125.101.187:10701/http/192.168.77.24:8081/hls/67/809/ch27.m3u8?
 http://59.125.101.187:10704/http/192.168.77.24:8081/hls/73/815/ch51.m3u8?
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港台",HBO
 http://59.125.101.187:10757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?
-#EXTINF:-1,tvg-id="霹雳台湾台" tvg-name="霹雳台湾台" tvg-logo="https://epg.112114.xyz/logo/霹雳台湾台.png" group-title="港台",霹雳台湾台
+#EXTINF:-1,tvg-id="霹雳台湾台" tvg-name="霹雳台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PiliPuppet.png" group-title="港台",霹雳台湾台
 http://59.125.101.187:10768/http/192.168.77.24:8081/hls/75/817/ch59.m3u8?
 #EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="港台",CINEMAX
 http://59.125.101.187:10761/http/192.168.77.24:8081/hls/71/813/ch42.m3u8?
@@ -251,7 +251,7 @@ http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 http://120.84.96.29:808/hls/86/index.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港台",无线新闻
 http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
-#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港台",无线财经
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港台",无线财经
 http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TVB功夫台.png" group-title="港台",TVB功夫台
 http://154.211.7.223:8880/hls/20220414.m3u8
@@ -307,7 +307,7 @@ http://59.125.101.187:10770/http/192.168.77.24:8078/hls/35/80/babytv.m3u8?
 http://59.125.101.187:10740/http/192.168.77.24:8081/hls/70/812/ch40.m3u8?
 #EXTINF:-1,tvg-id="年代MUCH" tvg-name="年代MUCH" tvg-logo="https://epg.112114.xyz/logo/年代MUCH.png" group-title="港台",年代Much
 http://59.125.101.187:10729/http/192.168.77.24:8081/hls/72/814/ch45.m3u8?
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港台",台视
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="港台",台视
 http://59.125.101.187:10702/http/192.168.77.24:8081/hls/72/814/ch46.m3u8?
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港台",华视
 http://59.125.101.187:10713/http/192.168.77.24:8088/hls/72/814/ch48.m3u8?

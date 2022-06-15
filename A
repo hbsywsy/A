@@ -164,7 +164,7 @@ http://59.125.101.187:10744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8?
 http://59.125.101.187:10754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8?
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/卫视合家欢台.png" group-title="文娱",StarWorld
 http://59.125.101.187:10761/http/192.168.77.24:8081/hls/61/803/ch02.m3u8?
-#EXTINF:-1,tvg-id="CNBCHONGKONG" tvg-name="CNBCHONGKONG" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="文娱",CNBC
+#EXTINF:-1,tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.112114.xyz/logo/cnbc.png" group-title="文娱",CNBC
 http://59.125.101.187:10708/http/192.168.77.24:8078/hls/24/80/cnbc90.m3u8?
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IHOT爱浪漫.png" group-title="IHOT",iHOT爱浪漫
 http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt

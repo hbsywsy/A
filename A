@@ -148,7 +148,7 @@ http://111.63.117.13:6060/030000001000/G_XINJIANG/G_XINJIANG.m3u8
 #EXTINF:-1,tvg-id="十堰新闻" tvg-name="十堰新闻" tvg-logo="https://upload.112114.xyz/logo/sytv1.png" group-title="十堰",十堰新闻
 http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
 #EXTINF:-1,tvg-id="十堰公共" tvg-name="十堰公共" tvg-logo="https://upload.112114.xyz/logo/sytv2.png" group-title="十堰",十堰公共
-http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
+https://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
 #EXTINF:-1,tvg-id="十堰经济" tvg-name="十堰经济" tvg-logo="https://upload.112114.xyz/logo/sytv3.png" group-title="十堰",十堰经济
 http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8#@rtmp://r2bj.weizan.cn/v/351104_791122427715011838jiema4#@http://61.184.93.197:5011/vod/hls/5.m3u8
 

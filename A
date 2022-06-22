@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 4M1080
 http://[2409:8087:5c00:10:5::138]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225888/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 8M1080
@@ -304,23 +305,24 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
 #EXTINF:-1,tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV东北热剧.png" group-title="NEW",东北热剧
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
 
-#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港台",东森新闻
-http://59.125.101.187:11702/http/192.168.77.24:8081/hls/63/805/ch10.m3u8?
-#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="港台",中天新闻
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title ="港台",中天新闻
 http://59.125.101.187:11703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?
 http://211.23.114.106:11555/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://upload.112114.xyz/logo/Global_News_CH_logo.png" group-title="港台",寰宇新闻
+http://59.125.101.187:11709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
 http://59.125.101.187:11709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
-http://59.125.101.187:10709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
 https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
-#EXTINF:-1,tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港台",TVBS HD
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港台",东森新闻
+http://59.125.101.187:11702/http/192.168.77.24:8081/hls/63/805/ch10.m3u8?
+#EXTINF:-1,tvg-id="TVBS 高清" tvg-name="TVBS 高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港台",TVBS高清
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=54
+#EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title ="港台",年代新闻
+http://59.125.101.187:11701/http/192.168.77.24:8081/hls/67/809/ch27.m3u8?
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="港台",三立新闻
 http://59.125.101.187:11756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?
 #EXTINF:-1,tvg-id="壹电视新闻台" tvg-name="壹电视新闻台" tvg-logo="https://epg.112114.xyz/logo/壹电视新闻台.png" group-title="港台",壹电视新闻台
 http://59.125.101.187:11710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8?
-#EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="港台",年代新闻
-http://59.125.101.187:11701/http/192.168.77.24:8081/hls/67/809/ch27.m3u8?
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港台",民视新闻
 http://59.125.101.187:11704/http/192.168.77.24:8081/hls/73/815/ch51.m3u8?
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港台",HBO

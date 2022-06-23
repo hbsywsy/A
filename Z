@@ -189,14 +189,14 @@ https://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
 http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8#@rtmp://r2bj.weizan.cn/v/351104_791122427715011838jiema4#@http://61.184.93.197:5011/vod/hls/5. m3u8
 
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title ="港台",中天新闻
-http://59.125.101.187:11703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?
+http://59.125.101.187:10703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?
 http://211.23.114.106:11555/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://upload.112114.xyz/logo/Global_News_CH_logo.png" group-title="港台",寰宇新闻
-http://59.125.101.187:11709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
+http://59.125.101.187:10709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
 http://59.125.101.187:11709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
 https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港台",东森新闻
-http://59.125.101.187:11702/http/192.168.77.24:8081/hls/63/805/ch10.m3u8?
+http://59.125.101.187:10702/http/192.168.77.24:8081/hls/63/805/ch10.m3u8?
 #EXTINF:-1,tvg-id="TVBS 高清" tvg-name="TVBS 高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港台",TVBS高清
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=54

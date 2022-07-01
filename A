@@ -317,7 +317,7 @@ http://59.125.101.187:8804/http/192.168.77.24:8081/hls/63/805/ch10.m3u8?
 #EXTINF:-1,tvg-id="TVBS 高清" tvg-name="TVBS 高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港台",TVBS高清
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=54
 #EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title ="港台",年代新闻
-http://59.125.101.187:8810/http/192.168.77.24:8081/hls/67/809/ch27.m3u8?
+http://59.125.101.187:8811/http/192.168.77.24:8081/hls/67/809/ch27.m3u8?
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="港台",三立新闻
 http://59.125.101.187:8810/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?
 #EXTINF:-1,tvg-id="壹电视新闻台" tvg-name="壹电视新闻台" tvg-logo="https://epg.112114.xyz/logo/壹电视新闻台.png" group-title="港台",壹电视新闻台
